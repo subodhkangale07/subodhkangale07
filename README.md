@@ -1,6 +1,6 @@
 👋 Hey there, coding wizards! I'm Subodh Kangale, 
 a passionate web developer with a love for all things front-end and back-end! 
-💻 Whether I'm crafting beautiful user interfaces with HTML/CSS/JavaScript or 
+💻 Whether I'm crafting beautiful user interfaces with HTML/CSS/JavaScript/React or 
 diving deep into server-side magic with Node.js and databases,
 I'm always up for a coding adventure! 
 🌐 Let's collaborate and build some awesome web experiences together! 
