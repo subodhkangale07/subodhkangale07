@@ -1,10 +1,10 @@
 👋 Hey there, coding wizards! I'm Subodh Kangale, 
-a passionate web developer with a love for all things front-end and back-end! 
-💻 Whether I'm crafting beautiful user interfaces with HTML/CSS/JavaScript/React or 
-diving deep into server-side magic with Node.js and databases,
-I'm always up for a coding adventure! 
-🌐 Let's collaborate and build some awesome web experiences together! 
-🚀 #WebDevWizard
+🚀 Full-Stack Developer | MERN Stack Enthusiast
+👨‍💻 Skilled in HTML, CSS, JavaScript, React, Node.js, MongoDB
+🧠 Strong problem-solving abilities with achievements in coding competitions
+🎓 Pursuing a degree at Walchand College of Engineering
+🤖 Exploring AI and DevOps
+💡 Passionate about building innovative tech solutions through internships and projects
 
 <!---
 subodhkangale07/subodhkangale07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
