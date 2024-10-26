@@ -92,24 +92,27 @@ const subodh = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=subodhkangale07&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=subodhkangale07&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=subodhkangale07&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=subodhkangale07&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subodhkangale07&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subodhkangale07&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" />
 </div>
 
 ## 🎯 Featured Projects
 
 <div align="center">
   <a href="https://github.com/subodhkangale07/JobPortal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=subodhkangale07&repo=JobPortal&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=subodhkangale07&repo=JobPortal&theme=tokyonight&show_owner=true&cache_seconds=1800" />
   </a>
   <a href="https://github.com/subodhkangale07/Shopping-cart">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=subodhkangale07&repo=Shopping-cart&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=subodhkangale07&repo=Shopping-cart&theme=tokyonight&show_owner=true&cache_seconds=1800" />
   </a>
 </div>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subodhkangale07&theme=react-dark&hide_border=true&area=true" width="100%"/>
 
 ## 🤝 Connect With Me
 
