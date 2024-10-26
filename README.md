@@ -48,7 +48,7 @@ const subodh = {
   <img src="https://leetcode.com/static/images/badges/2023/gif/2023-12.gif" width="40" alt="LeetCode"/>
   
   - 🎯 **LeetCode:** 1800+ Rating | 500+ Problems
-  - 🌟 **CodeChef:** 3⭐ Rated | Global Rank 193
+  - 🌟 **CodeChef:** 3⭐ Rated | Global Rank 193 in Div 3 Contest
   - 🏅 **WCPC Finalist:** Top performer among 500+ participants
 </div>
 
