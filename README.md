@@ -13,7 +13,7 @@
 [![](https://visitcount.itsvg.in/api?id=subodhkangale07&icon=5&color=1)](https://visitcount.itsvg.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subodhkangale07)
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:subodhkangale5131@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=todoist&logoColor=white)](https://github.com/subodhkangale07/Portfolio-Website)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=todoist&logoColor=white)](https://subodhkangale07.github.io/Portfolio-Website/)
   
 </div>
 
