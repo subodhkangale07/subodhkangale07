@@ -26,11 +26,11 @@
 const subodh = {
     pronouns: "He" | "Him",
     education: "B.Tech @ Walchand College of Engineering",
-    experience: "Ex-Intern @ Bluestock Fintech",
+    experience: "GSSoC'24, Ex-Intern @ Bluestock Fintech",
     currentFocus: "Full Stack Development",
     learning: ["DevOps", "AI/ML", "System Design"],
     achievements: {
-        leetcode: "1800+ Rating",
+        leetcode: "1900+ Rating(Knight)",
         codechef: "3-Star Coder",
         problems: "500+ DSA Problems Solved"
     },
