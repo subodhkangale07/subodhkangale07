@@ -50,6 +50,7 @@ const subodh = {
   - 🎯 **LeetCode:** 1900+(Knight) Rating | 500+ Problems
   - 🌟 **CodeChef:** 3⭐ Rated | Global Rank 193 in Div 3 Contest
   - 🏅 **WCPC Finalist:** Top performer among 500+ participants
+  - 🥈 CSESA CodeCrunch 2024: Secured 2nd place in the coding competition.
 </div>
 
 ### 🚀 Development Journey
