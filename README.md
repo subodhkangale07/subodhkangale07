@@ -32,7 +32,7 @@ const subodh = {
     achievements: {
         leetcode: "1900+ Rating(Knight)",
         codechef: "3-Star Coder",
-        problems: "500+ DSA Problems Solved"
+        problems: "700+ DSA Problems Solved"
     },
     askMeAbout: ["Web Dev", "Tech", "DSA", "Coffee ☕"],
     funFact: "I debug with console.log and pretend I knew what the issue was"
@@ -118,8 +118,8 @@ const subodh = {
   <a href="https://github.com/subodhkangale07/JobPortal">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=subodhkangale07&repo=JobPortal&theme=tokyonight&show_owner=true&cache_seconds=1800" />
   </a>
-  <a href="https://github.com/subodhkangale07/Shopping-cart">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=subodhkangale07&repo=Shopping-cart&theme=tokyonight&show_owner=true&cache_seconds=1800" />
+  <a href="https://github.com/subodhkangale07/ClassNotify-WebApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=subodhkangale07&repo=ClassNotify-WebApp&theme=tokyonight&show_owner=true&cache_seconds=1800" />
   </a>
 </div>
 
